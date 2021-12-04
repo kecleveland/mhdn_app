@@ -140,3 +140,10 @@ cython_debug/
 # Config files
 config.py
 
+twitter-data/test_tweet.jsonl
+twitter-data/test_tweet.csv
+twitter-data/02_test_tweet.jsonl
+twitter-data/02_test_tweet.csv
+test.ipynb
+index.html
+mhdn_tweets.ipynb
